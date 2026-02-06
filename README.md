@@ -29,7 +29,7 @@ visitor@github:~$ grep "current_focus" status.log
 > Lifting heavy things at the Iron Church 🏋️
 
 visitor@github:~$ ./contact_me
-``
+```
 
 > LinkedIn: [linkedin.com/in/marcus-m-persson](https://linkedin.com/in/marcus-m-persson)
 > Email:    marcus.m.persson01@gmail.com
